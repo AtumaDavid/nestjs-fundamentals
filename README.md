@@ -84,6 +84,10 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 - npm i --save class-validator class-transformer
 
+## Rate limiting
+
+- npm i @nestjs/throttler
+
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
